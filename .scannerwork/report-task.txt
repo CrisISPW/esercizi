@@ -1,0 +1,7 @@
+organization=crisispw
+projectKey=CrisISPW_esercizi
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.26660
+dashboardUrl=https://sonarcloud.io/dashboard?id=CrisISPW_esercizi
+ceTaskId=AX7pcumTHBdLUYadZ1RS
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AX7pcumTHBdLUYadZ1RS
